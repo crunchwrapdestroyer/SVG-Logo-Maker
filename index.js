@@ -10,7 +10,7 @@ const questions = [
         },
         {
             type: 'input',
-            name: 'text color',
+            name: 'textColor',
             message: 'Enter the text color (keyword or hexadecimal number)'
         },
         {
@@ -25,7 +25,7 @@ const questions = [
         },
         {
             type: 'input',
-            name: 'shape color',
+            name: 'shapeColor',
             message: 'Enter the shape color of the logo (keyword or hexadecimal number)'
         }
     ]

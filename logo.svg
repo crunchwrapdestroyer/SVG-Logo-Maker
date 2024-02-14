@@ -1,1 +1,2 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="100" r="80" fill="undefined" /><text x="150" y="125" font-size="60" text-anchor="middle" fill="undefined">sup</text></svg>
+<svg width="400" height="180" xmlns="http://www.w3.org/2000/svg">
+      <rect x="50" y="20" width="150" height="150" fill="black" /><text x="125" y="125" font-size="60" text-anchor="middle" fill="green">SVG</text></svg>
